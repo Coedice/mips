@@ -1,0 +1,2 @@
+# mips
+Small MIPS functions
